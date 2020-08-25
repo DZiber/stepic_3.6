@@ -1,1 +1,1 @@
-# stepic_3.6
+# Repository with test  task
